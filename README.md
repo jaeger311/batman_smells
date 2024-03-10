@@ -1,6 +1,6 @@
 # Batman Smells
 
-Welcome to the repository for Batman Smells, an exciting and humorous slap-silly-billy-willy-nilly game that follows the adventures of a slightly different superhero as you learn how to code with Meta on Coursera. Dive into the streets of Gotham where things are a little funkier than usual.
+Welcome to the repository for Batman Smells, the exciting and humorous slap-silly-billy-willy-nilly game that follows the adventures of a slightly different superhero as you learn how to code with Meta on Coursera. Dive into the streets of Gotham where things are a little funkier than usual.
 
 ## Description
 
