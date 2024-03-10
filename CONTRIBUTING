@@ -1,0 +1,53 @@
+# Contributing to Batman Smells
+
+First off, thank you for considering contributing to Batman Smells. It's people like you that make Batman Smells such a great game.
+
+## Getting Started
+
+Contributing to this repository can range from fixing bugs, improving documentation, or even suggesting new features to add. Here are some resources to help you get started:
+
+- [General GitHub documentation](https://help.github.com/)
+- [GitHub pull request documentation](https://help.github.com/articles/about-pull-requests/)
+
+## Pull Requests
+
+Here are some quick guidelines for contributing:
+
+1. Fork the repository and create your branch from `main`.
+2. If you've added code that should be tested, add tests.
+3. Ensure the test suite passes.
+4. Make sure your code lints (if applicable).
+5. Issue that pull request!
+
+## Coding Conventions
+
+Start reading our code and you'll get the hang of it. We optimize for readability:
+
+- We indent using two spaces (soft tab).
+- We use comments to explain the code where necessary.
+- Follow the naming conventions found throughout the codebase.
+- Keep it simple and small.
+
+## Community
+
+Stay up-to-date with more about our game and chat with the project maintainers and community members.
+
+- [Community forums](link-to-community-forum)
+
+## Issues
+
+Ensure the bug was not already reported by searching on GitHub under [Issues](link-to-issues). If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
+
+## Feature Requests
+
+Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible.
+
+## License
+
+By contributing to Batman Smells, you agree that your contributions will be licensed under its Apache License 2.0.
+
+## Acknowledgment
+
+Your contributions are acknowledged and appreciated. By participating in this project, you get to be a part of a community that values your work and aims to make the gaming experience enjoyable for everyone.
+
+Thank you for contributing!
